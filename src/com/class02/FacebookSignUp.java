@@ -30,9 +30,6 @@ public class FacebookSignUp {
 		
 	}
 
-	private static Select new Select(WebElement dayDd) {
-		// TODO Auto-generated method stub
-		return null;
 	}
 
-}
+
